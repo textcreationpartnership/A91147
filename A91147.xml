@@ -1,0 +1,906 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Beheaded Dr. John Hewytts ghost pleading, yea crying for exemplarie justice against the arbitrarie, un-exampled injustice of his late judges and executioners in the new High-Commission, or Court of Justice, sitting in Westminster-Hall. Conteining his legal plea, demurrer, and exceptions to their illegal jurisdiction, proceedings, and bloody sentence against him; drawn up by counsel, and left behinde him ready ingrossed; the substance whereof he pleaded before them by word of mouth, and would have tendred them in writing in due form of law, had he not discerned their peremptory resolution to reject and over-rule, before they heard them read.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91147</idno>
+            <idno type="STC">Wing P3900</idno>
+            <idno type="STC">Thomason E974_2</idno>
+            <idno type="STC">ESTC R205170</idno>
+            <idno type="EEBO-CITATION">99864605</idno>
+            <idno type="PROQUEST">99864605</idno>
+            <idno type="VID">168546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91147)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168546)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 145:E974[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Beheaded Dr. John Hewytts ghost pleading, yea crying for exemplarie justice against the arbitrarie, un-exampled injustice of his late judges and executioners in the new High-Commission, or Court of Justice, sitting in Westminster-Hall. Conteining his legal plea, demurrer, and exceptions to their illegal jurisdiction, proceedings, and bloody sentence against him; drawn up by counsel, and left behinde him ready ingrossed; the substance whereof he pleaded before them by word of mouth, and would have tendred them in writing in due form of law, had he not discerned their peremptory resolution to reject and over-rule, before they heard them read.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+                  <author>Hewit, John, 1614-1658.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year of our Lord, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drawn up by William Prynne on Hewit's behalf for his trial.</note>
+                  <note>Running title reads: The plea and demurrer of Doctor Iohn Hewytt, &amp;c.</note>
+                  <note>Annotation on Thomason copy: "March 27"; "27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hewit, John, 1614-1658 --  Early works to 1800.</term>
+               <term>Due process of law --  England --  Early works to 1800.</term>
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168546:1" rendition="simple:additions"/>
+            <p>BEHEADED
+Dr. John Hewytts Ghoſt
+Pleading, yea crying for
+EXEMPLARIE JUSTICE
+AGAINST
+The Arbitrarie, <hi>Un-exampled Injuſtice</hi> of his late
+<hi>Judges</hi> and <hi>Executioners</hi> in the <hi>New High-Commiſsion,</hi>
+or <hi>Court of Juſtice,</hi> ſitting in
+<hi>WEST MINSTER-HALL.</hi>
+            </p>
+            <p>Conteining his <hi>Legal Plea, Demurrer,</hi> and <hi>Exceptions</hi> to their
+<hi>illegal Juriſdiction, Proceedings, and bloody Sentence</hi> againſt him;
+drawn up by <hi>Counſel,</hi> and left behinde him ready ingroſſed; the
+<hi>Substance</hi> whereof he <hi>pleaded</hi> before them by <hi>word of mouth,</hi> and
+would have tendred them <hi>in writing</hi> in due <hi>form of Law,</hi> had he
+not diſcerned their <hi>peremptory Reſolution</hi> to reject and <hi>over-rule,</hi>
+before they heard them read,</p>
+            <q>
+               <bibl>Gen. 3. 10.</bibl>
+               <p>The voyce of thy brothers BLOUD CRYETH UNTO
+ME from the ground.</p>
+            </q>
+            <q>
+               <bibl>Exod. 21. 14.</bibl>
+               <p>If a man come preſumptuouſly upon his neighbour to ſlay
+him with guile, thou ſhalt take him from mine Altar, that he may die.</p>
+            </q>
+            <q>
+               <bibl>Pſ, 94. 20, 21, 23.</bibl>
+               <p>Shall the throne of Iniquity have fellowſhip with
+thee, which frameth miſchief by a Law? They gather themſelves to<g ref="char:EOLhyphen"/>gether
+againſt the ſoul of the righteous, and condemn the innocent
+bloud: But the Lord ſhall bring upon them their own iniquity, and
+ſhall cut them off in their own wickedneſs: yea, the Lord our God
+ſhall cut them off.</p>
+            </q>
+            <q>
+               <bibl>Prov. 28. 17.</bibl>
+               <p>A man that doth violence to the bloud of any perſon,
+ſhall flee to the pit, Let no man stay him.</p>
+            </q>
+            <p>
+               <hi>LONDON</hi>
+Printed in the Year of our Lord, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="plea">
+            <pb facs="tcp:168546:2"/>
+            <pb n="1" facs="tcp:168546:2"/>
+            <head>The Plea and Demurrer of John Hewytt, Dr. of
+Divinity, to the Juriſdiction and Proceedings of
+the Commiſſioners in purſuance of an Act, for
+the ſecurity of the Lord Protectors Perſon, &amp;c.
+and to the Sentence of Death pronounced againſt
+him by them.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His Defendant ſaith, That he is by Birth a
+<hi>Freeman of England,</hi> and that it is the un<g ref="char:EOLhyphen"/>doubted
+antient inſeparable <hi>Birthright,
+Privilege,</hi> and <hi>Inheritance</hi> of every <hi>Engliſh
+Freeman</hi> both by the Common Laws, Franchiſes, Great
+Charters, Statutes and Uſages of this Land, ratified
+from Age to Age by the Votes, Reſolutions, Decla<g ref="char:EOLhyphen"/>rations,
+Judgements of the High Court of Parliament,
+and other publike Courts of Juſtice, the Oathes of the
+Kings of <hi>England</hi> and their Juſtices, and by manie other
+ſolemn publick Confirmations, Proteſtations, Oathes,
+Vowes, and Covenants:<note n="a" place="margin">Cooks 2 Inſtit. p. 45, to 57. Magna Charta of King John, H. 3. &amp; E. 1. c. 29. 25 E. 1. c 1. 28 <hi>E.</hi> 1. c. 1. 5 E. 3 c. 9. 25 <hi>E.</hi> 3. n. 26 &amp;c. 4. 28 E. 3. c. 3. 42 <hi>E.</hi> 3. c. 23. 2 H. 4. rot. Parl. n. 60 the Petition of Right, 3 Ca<g ref="char:EOLhyphen"/>roli.</note> That no Freeman of Eng<g ref="char:EOLhyphen"/>land
+may or ought to be taken or impriſoned, or diſſeiſed, or
+diſinherited of his Freehold, Liberties, or Free Customs; or to
+be outlawed, exiled, or any way deſtroyed, paſſed upon, dealt
+with, or forejudged of life or limb, or put to death, upon any
+accuſation whatſoever, but by the lawfull Judgement of his
+Peers, or by the Law of the Land; and that he ſhall not be put
+to anſwer without Preſentment before the Juſtices, or thing of
+Record, or by due proceſs of the Law, or by writ original, ac<g ref="char:EOLhyphen"/>cording
+to the old Law of the Land;<note n="b" place="margin">25 E. 3 c. 2. 26 H. 8. c. 13. 33 H 8. c. 20. 35 H. 8. c. 1. 1 Ed. 6. c. 12. 1, &amp; 2 Phil. &amp; Mar. c. 10, 11. 5 <hi>E</hi> 6. c. 11. 1 Eliz: c 6 5 Eliz. c. 11. 13 Eliz. c. 1. 14 Eliz. c. 1. 18 Eliz. c. 1. 27 Eliz. c. 2. 1 H. 4. c. 14.</note> And that all trials
+hereafter to be had, awarded, or made for any Tre<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſon, ſhall
+be had and uſed <hi>only</hi> according to the due order &amp; courſe of the
+Common Laws of this Realm, and <hi>not otherwiſe,</hi> upon In<g ref="char:EOLhyphen"/>quest
+and preſentment by the Oaths of 12 good and lawfull men
+upon good and probable evidence and witneſs; And that
+<pb n="2" facs="tcp:168546:3"/>
+               <note n="c" place="margin">5 E. 1. c. 21. 2. Cooks 2 In<g ref="char:EOLhyphen"/>ſtit p. 526, 527 28 <hi>E.</hi> 3. rot. Parl. n. 7, 8, 9, 10, 11, 12, 13. 29 <hi>E</hi> 3. rot. Parl. n. 29, 30. E 3. co<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am re<g ref="char:EOLhyphen"/>ge, rot. 92. Cooks 3 Inſtit p. 52. 42 E. 3. c. 1. 3.</note> 
+               <hi>if any thing be done to the contrary of the Premiſes, it
+ſhall be void in Law, redreſſed, and holden for errour, and
+nought: And if any Statute be made to the contrary, that ſhall
+be holden for none.</hi> And moreover this Defendant ſaith,
+that in the Parliament of 2. <hi>R.</hi> 2. rot. Parl. n. 47. the
+Commons petitioned the King and Lords, that the
+<hi>Conſtable and Marſhall of England</hi> (then encroaching
+upon this Priviledge of the Commons, by holding
+Pleas of <hi>Treaſon</hi> and <hi>Felony</hi> before them after the courſe
+of Martial Law) <hi>might from thenceforth ſurceaſe to hold
+Pleas of Treaſon and Felony before them, done within the
+Realme, and that the ſame may be determine, <hi>only</hi> before the
+Kings Justic<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, according to the Great Charter;</hi> which was
+then aſſented to: And that upon the like petitions of
+the Commons in the <hi>Parliaments</hi> of 1 <hi>H</hi> 
+               <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. and 2. <hi>H.</hi> 4.
+rot. Parl. n. 89. it was <hi>aſſented to, and enacted by the King
+and Lords, that the Kings liege people</hi>
+               <note n="d" place="margin">Cooks 4. Inſtit. p. 124, 125.</note> 
+               <hi>ſhould not be put
+to anſwer before the Conſtable or Marſhall in Courts of Chi<g ref="char:EOLhyphen"/>valry,
+for any thing done within the Realme, but that (as
+before in the times of his Progenitors) the ſame might be tried
+&amp; determined <hi>only before his Juſtices in his Courts, as
+it ought to be according to the Common Law of the
+Realm, &amp; in no other place or manner.</hi> 
+                  <g ref="char:V">Ʋ</g>pon which Con<g ref="char:EOLhyphen"/>ſiderations
+many of the Kings loyal Lords, Gentlemen and other
+ſubjects in the general inſurrection of the Villains &amp; other Re<g ref="char:EOLhyphen"/>bels
+againſt the King, in the 5th year of</hi> Richard <hi>the 2d.
+having inflicted divers puniſhments upon the ſaid villains and
+traytors without due proceſſe of the Law, and otherwiſe then
+the Lawes and uſages of the Realme required; though they
+did it out of no malice prepenſed, but out of meer loyalty to the
+King, and to appeaſe and ceaſe the preſent miſchief, and out of
+ignorance of the ſaid Lawes and uſage, in which if they had
+been learned, yet at that time they ought not to have tarried
+the pro<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſs of the Law in thoſe puniſhments of their good diſ<g ref="char:EOLhyphen"/>cretion;
+yet thoſe puniſhments and executions of them in a
+ſummary way being contrary to, and not warranted by the
+Laws and uſages of the Realme, they were enforced for their
+future indemnity againſt the King and his heires, and the
+<pb n="3" facs="tcp:168546:3"/>
+heires, wives and friends of thoſe they puniſhed, to petition the
+King and Parliament, for a general pardon by act of Parlia<g ref="char:EOLhyphen"/>ment,
+to ſecure and indemnifie themſelves;</hi> which was gran<g ref="char:EOLhyphen"/>ted
+them, in 5. <hi>R. 2. Parl.</hi> 1. ch. 5. elſe they might have
+been impeached and puniſhed for the ſame, as well as
+King <hi>Richard</hi> the ſecond himſelf; who in the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi>
+of 1 H. 4. rot. Parl. n. 44 (wherein he was enfor<g ref="char:EOLhyphen"/>ced
+to reſigne his Crown, &amp; then depoſed for his miſ<g ref="char:EOLhyphen"/>government)
+was amongſt other Articles impeached of
+this in particular by that Parliament, <hi>for that againſt the
+great Charter</hi> (ch. 19.) <hi>and his Coronation Oath, be ſuffered
+many of his Li<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge people to be maliciouſly accuſed, apprehen<g ref="char:EOLhyphen"/>ded,
+impriſoned, and tried before the Constable and Marſhall
+of</hi> England <hi>in their military Court, for words ſecretly ſpo<g ref="char:EOLhyphen"/>ken,
+or acts privately done, to the ſcandal of his Royal Perſon,
+where they were enforced to acquit themſelves by duell;
+whence the destruction not only of the Nobles and Great Men,
+but likewiſe of all and every the perſons of the Commons of the
+Realm might probably have enſued.</hi> And this Defendant
+further ſaith, that one <hi>Peter Burchet</hi> of the <hi>Temple</hi> in
+the 13th year of Queen <hi>Elizabeths</hi> Reign, having wil<g ref="char:EOLhyphen"/>fully
+ſtabbed that famous Sea-Captain <hi>John Hawkins,</hi>
+for not being of his opinion in Religion, (<hi>Bur<g ref="char:EOLhyphen"/>chet</hi>
+being perſwaded in Conſcience, that it was lawfull
+for him to kill every one who was not of his opinion)
+the <hi>Queen</hi> being much incenſed againſt him for this
+horrid fact, <hi>commanded him to be forthwith tried and execu<g ref="char:EOLhyphen"/>ted
+for it by Martial Law:</hi> But her Judges and Councill
+informing her, <hi>that he could not be ſo tried by law, it being
+done not in an Army, but in time of peace, when her Courts of
+Law and Juſtice were open; thereupon ſhe deſiſted from this
+way of Tryall; After which he was tried according to Law,
+for this and his murdering his keeper in the Tower,</hi> as Mr.
+<hi>Camden</hi> records in his <hi>Annals of Queen Elizabeth,</hi> p. 242.
+243. And whereas in the Parliament of the 4th. of
+King <hi>James</hi> holden at <hi>Weſtminſter,</hi> there was ſome
+kind of motion made; <hi>that to extirpate and reforme the
+inveterate evil cuſtomes, diſorders, fewds, bloudſheds, thefts
+<pb n="4" facs="tcp:168546:4"/>
+and ſpoiles wherewith the worſt ſort of Inhabitants near the
+borders and limits of both Realmes of</hi> England <hi>and</hi> Scot<g ref="char:EOLhyphen"/>land
+<hi>were infected and inured;</hi> that they might be tried
+by a <hi>ſummary Proceeding,</hi> by way of <hi>Martiall Law,</hi> or
+by the Lawes of the Kingdome into which they fled to
+purchaſe their impunity: This Parliament was ſo
+farre from approving thereof, that they ſpecially ena<g ref="char:EOLhyphen"/>cted,
+in this caſe (even of theſe worſt ſort of men)
+<q>
+                  <note n="*" place="margin">4 Iacob. ch. 1.</note> That in regard of ſome difference and inequality in
+the Laws, Trials, and Proceedings in caſes of life, be<g ref="char:EOLhyphen"/>tween
+the Juſtice of the Realm of <hi>England</hi> and that of
+the Realme of <hi>Scotland,</hi> it appearing to be moſt con<g ref="char:EOLhyphen"/>venient
+for the contentment and ſatisfaction of all
+his Majeſties Subjects, to proceed with all poſſible ſe<g ref="char:EOLhyphen"/>verity
+againſt ſuch offenders in their own country,
+ACCORDING TO THE LAWES OF THE
+SAME, WHEREUNTO THEY ARE BORNE
+AND INHERITABLE; and by and before the na<g ref="char:EOLhyphen"/>turall
+borne ſubjects of the ſame Realme; by whom
+their Murders, Felonies, Rapes, &amp;c. ſhould be in<g ref="char:EOLhyphen"/>quired
+of, heard and determined before his Majeſties
+Juſtices of Aſſize, or Commiſſioners of Oyer and
+Terminer, or Goal delivery, by good and lawfull men
+of the 3. Counties therein ſpecified, and <hi>none other.</hi>
+And that at all ſuch Trials the Jurie then and there
+ſworne, ſhall have in their power and election, accor<g ref="char:EOLhyphen"/>ding
+to their conſcience and diſcretion upon their
+Oathes, to receive and admit only ſuch ſufficient
+good and lawfull witneſſes upon their Oathes, either
+for or againſt the party arraigned, as ſhall not ap<g ref="char:EOLhyphen"/>pear
+to them, or the greater part of them to be unfit
+and unworthy to be witneſſes in that cauſe, either
+in regard of their hatred and malice, or their favour
+and affection either to the party proſecuting or to the
+party arraigned, or of their former evil life and con<g ref="char:EOLhyphen"/>verſation.</q>
+Which common, equal, indifferent Juſtice
+allowed to the worſt Malefactors, as their <hi>birthright</hi>
+and <hi>inheritance</hi> by this Parliament and Act, this De<g ref="char:EOLhyphen"/>fendant
+<pb n="5" facs="tcp:168546:4"/>
+now onely craves, and hopes you cannot in
+Law or Juſtice deny him; nor proceed againſt him by
+way of Martial Law. And ſo much the rather, becauſe
+ſince this Statute, King <hi>Charles</hi> in the 3d. year of his
+Reign, by the <hi>advice of his Counſell</hi> (to ſuppreſſe the
+Inſolencies of <hi>Souldiers</hi> and <hi>Mariners</hi> then billeted in
+ſundry parts of the Realm) having iſſued out <hi>Commiſſi<g ref="char:EOLhyphen"/>ons</hi>
+to ſundry perſons of quality, in time of peace, <hi>to
+execute Martiall Law upon thoſe Soldiers and Mariners, and
+other diſſolute perſons (only) joyntng with them, for Murther,
+Robbery, Felony, Mutiny, and other outrages committed by
+them, by ſuch ſummary courſe and order as is agreeable to
+Martiall Law, a<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> is uſed in Armies in time of Warre; to
+proceed to the triall and condemnation of ſuch offenders, and
+then to cauſe them to be executed and put to death, according
+to the Law Martiall; By pretext whereof ſome of the ſaid
+ſouldiers and ſubjects were put to death by ſome of the ſaid
+Commiſſioners, when and where, if by the Lawes and Statutes
+of the Land they had deſerved death, by the ſame Lawes and
+Statutes alſo they might, and by <hi>no other</hi> ought to have been
+Judged, (before the Kings Iuſtices) and executed.</hi> Upon
+Complaint of theſe <hi>Commiſsions,</hi> as <hi>illegal,</hi> in the Par<g ref="char:EOLhyphen"/>liament
+of 3. <hi>Caroli,</hi> they were, after a full debate by
+both <hi>Houſes, voted to be againſt Law;</hi> And in the <hi>Petiti<g ref="char:EOLhyphen"/>on
+of Right</hi> it ſelf, it was then prayed by the <hi>Lords and
+Commons,</hi> aſſented to by the late beheaded King
+himſelf, and enacted by this Law, <hi>That hereafter no Com<g ref="char:EOLhyphen"/>miſſions
+of <hi>like Nature</hi> may iſſue forth to any perſon or per<g ref="char:EOLhyphen"/>ſons
+whatſoever, to be executed as aforeſaid, lest by colour of
+them any of his Majesties Subjects be deſtroyed or put to death,
+<hi>contrarie to the Laws and Franchiſe of the Land:</hi>
+which the Lords and Commons then prayed, and the King gran<g ref="char:EOLhyphen"/>ted,
+confirmed by Act of Parliament, <hi>as their Right and
+Liberty according to the Lawes:</hi>
+               </hi> which Act ſtands
+yet in its full force. Upon conſideration of which late
+Excellent Law, the laſt long <hi>Parliament,</hi> in the caſes of
+the <hi>Lord Connor Magwire</hi> and <hi>Mac-mohun,</hi> and the Court
+of <hi>Kings Bench</hi> wherein they were tried by their ſpecial
+<pb n="6" facs="tcp:168546:5"/>
+order, in <hi>Michaelmas</hi> and <hi>Hilary</hi> Terms 20 <hi>Caroli,</hi> were
+ſo juſt, punctual and honorable, in confining them<g ref="char:EOLhyphen"/>ſelves
+to the rules of Law and Juſtice; that though
+theſe were principal <hi>Conſpirators,</hi> and <hi>Actors</hi> in the
+late moſt <hi>horrid, barbarous, bloody Treaſon, Rebellion and
+Maſſacre in Ireland,</hi> and taken in its proſecution; yet
+they were ſo far from trying them by <hi>Marſhal Law</hi> in
+a <hi>Council of Warre,</hi> or, <hi>High Court of Juſtice,</hi> even in a
+time of <hi>open warre</hi> both in <hi>England</hi> and <hi>Ireland,</hi> that
+they aſſigned the ſaid <hi>Maguire</hi> Counſil, to argue againſt
+the very <hi>Juriſdiction</hi> of the <hi>Kings Bench it ſelf; whether
+he, being a Peer of</hi> Ireland, could in point of Law or
+<hi>juſtice</hi> by the <hi>Statute</hi> of 35 <hi>H 8. ch.</hi> 2. <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any <hi>other Act,</hi> be
+<hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uted of his Trial by his Peers, and tried by a Jury of good and
+lawfull men of the County of</hi> Middleſex, <hi>for a Treaſon com<g ref="char:EOLhyphen"/>mitted
+in</hi> Ireland, <hi>being ſent a Priſoner from thence againſt
+his will?</hi> Which was there<note n="*" place="margin">See Mr. Prynnes Ar<g ref="char:EOLhyphen"/>gument thereof.</note> publickly argued at the Bar
+by Counſel <hi>pro &amp; contra;</hi> and then by the <hi>Judges,</hi> and
+overruled at laſt againſt him, before he was put to
+plead <hi>guilty</hi> or <hi>not guilty</hi> to his <hi>Indictment:</hi> after which
+they both were admitted to take both their <hi>peremptory</hi>
+and legal <hi>challenges</hi> to the Juries returned; (<note n="*" place="margin">32 H. 6. f 26. 14 H. 7. f 19. Brook Chal<g ref="char:EOLhyphen"/>lenge, 86, 211, 217. Stam<g ref="char:EOLhyphen"/>fords Pleas l. 3. c. 7 Cooks 3 Inſtit. p. 27.</note> 
+               <hi>according
+to Law, admitting ſuch challenges even in Caſes of high
+Treaſon;</hi>) and all juſt Exceptions to the Witneſſes
+produced; and had a moſt fair and <hi>free triall;</hi> being
+<hi>found guilty by the Jury,</hi> before any Judgment paſſed a<g ref="char:EOLhyphen"/>gainſt
+them, Which Juſtice he humbly craves in his Caſe,
+of leſs hainouſneſs and importance than theirs, being
+a native <hi>Engliſh free-man,</hi> and they onely <hi>Iriſh</hi> Rebells;
+becauſe this his inherent <hi>Birthright</hi> and <hi>Liberty can</hi>
+               <note n="e" place="margin">1 <hi>E</hi> 6. c. 12. 1 &amp; 2 Phil. &amp; Mar. c. 10, 11. Cooks 3 In<g ref="char:EOLhyphen"/>ſtit. c. 1, 2.</note> 
+               <hi>neither be forfeited by him for any real or pretended <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+or offence whatſoever, nor yet be denied or deferred to him</hi>
+(after all the premiſed Laws, Statutes, Charters,
+Judgments, Reſolutions, Preſidents) without the higheſt
+injuſtice; And he further ſaith, that to proceed againſt,
+trie, condemn, execute him in this <hi>high-Court</hi> without a
+legal <hi>Indictment, Preſentment, and Trial by the Oaths of
+twelve good and lawfull men</hi> according to the due order
+<pb n="7" facs="tcp:168546:5"/>
+and courſe of the Common Laws of this Realm (and
+that in <hi>Weſtminſter Hall</hi> it ſelf, the place of Law &amp; pub<g ref="char:EOLhyphen"/>lick
+Juſtice, in time of Peace, when and where all other
+Courts of Juſtice are open) or in any other form by
+way of <hi>Martial Law,</hi> or otherwiſe than a juſt Jurie of his
+Equals, is not only illegal, erroneous, &amp; againſt all Rules
+of Juſtice (the Commiſſioners themſelves being both his
+grand and pettie Jurie, and his Judges likewiſe; if not
+parties intereſſed, to whom <hi>he can take no peremptory nor
+legal challenges,</hi> which the<note n="f" place="margin">Cook's 3 In<g ref="char:EOLhyphen"/>ſtit. f. 27. Brook Chal<g ref="char:EOLhyphen"/>lenge 217.</note> 
+               <hi>Law allows him if tried by a Ju<g ref="char:EOLhyphen"/>ry,
+in caſes of high Treaſonat this day;</hi>) but alſo <hi>wilfull</hi> and
+<hi>malicious Murder</hi> by the Laws of <hi>England,</hi> being againſt
+<hi>Magna Charta, c. 29. and done by ſuch power and ſtrength as he
+this Defendant cannot defend himſelf againſt,</hi> as is reſolved in
+Sir <hi>Edward Cook's 3 Inſtit. p. 52. &amp;</hi> 224. (printed by ſpe<g ref="char:EOLhyphen"/>cial
+<hi>Order</hi> of the <hi>Houſe of Commons,</hi> dated 12 <hi>May,</hi> 1641.)
+and long before in <hi>Andrew Horn</hi> his <hi>Mirrour of Juſtices,
+c. 5, p.</hi> 296, 297. who records, that our noble King <hi>Alfred,</hi>
+cauſed no leſs than 44. of his Juſtices to be hanged in
+one year <hi>as Murderers,</hi> for condemning and executing ſome
+of his people without a legal Indictment and Trial by a ſworn
+Jury; and others of them for offences not capital by the known
+Laws of the Land, and without clear and pregnant Evidence.
+And this Defendant likewiſe ſaith, that the Commons
+themſelves ſitting at <hi>Westminſter,</hi> after the <hi>late Kings</hi> Exe<g ref="char:EOLhyphen"/>cution,
+in their printed <hi>Declaration</hi> of 17 <hi>Martii,</hi> 1648.
+(expreſſing <hi>the grounds of their proceedings against the ſaid
+King, and for ſettling the preſent Government in way of a Free
+State,</hi> to which many in preſent power and <gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tting here
+were aſſenting and gave their Votes) did thereby faith<g ref="char:EOLhyphen"/>fully
+<hi>promiſe</hi> and <hi>engage</hi> to the whole <hi>Engliſh</hi> Nation;
+<hi>That the good old Laws and Customes of</hi> England, <hi>The Bad<g ref="char:EOLhyphen"/>ges
+of our Freedom,</hi> (the benefit whereof our Ancestors en<g ref="char:EOLhyphen"/>joyed
+long before the Conqueſt and ſpent much of their bloud to
+have confirmed by the great Charters of their Liberti<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap>) which
+have continued in all former Changes, and being duly execu<g ref="char:EOLhyphen"/>ted
+are the moſt juſt, free, and equal of any other Laws in the
+world; ſhall be duly continued and maintained; the Liberty,
+<pb n="8" facs="tcp:168546:6"/>
+               <hi>Property and peace of the Subject being ſo fully preſerved by
+them;</hi> adding, that <q>if theſe Laws ſhould be taken
+away, all induſtrie muſt ceaſe, all miſerie, bloud and
+confuſion would follow; and greater calamities, if
+poſſible, than fell upon us by the late Kings miſ-go<g ref="char:EOLhyphen"/>vernment
+would certainly involve all perſons, under
+which they muſt inevitably periſh.</q> And moreover,
+the <hi>General Council</hi> of the <hi>Officers</hi> and <hi>Army</hi> themſelves
+(whereunto moſt Officers and Souldiers in preſent
+power and ſome Commiſſioners here ſitting were par<g ref="char:EOLhyphen"/>ties)
+in the <hi>Declaration</hi> of their Engagements, Remon<g ref="char:EOLhyphen"/>ſtrances,
+Repreſentations, Propoſals, Deſires, and Re<g ref="char:EOLhyphen"/>ſolutions
+for ſettling the Parliament in their juſt Pri<g ref="char:EOLhyphen"/>vileges,
+and the Subjects in their Liberties and Free<g ref="char:EOLhyphen"/>doms
+(printed by their own Orders and reprinted all
+together by Order of the <hi>Lords</hi> in <hi>Parliament, 27 Se<g ref="char:EOLhyphen"/>ptember
+1647) pag.</hi> 11, 36, 37, 38, 39. (eſpecially in their
+<hi>Declaration</hi> and <hi>Repreſentation</hi> tendered to the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi>
+concerning the juſt and fundamental Rights and
+Liberties of the Kingdom, 14 <hi>May</hi> 1647) do profeſs
+and declare. <q>That they were not a meer mercinarie
+Armie, hired to ſerve any arbitrarie power of State,
+but called forth and conjured by ſeveral Declarations
+of Parliament, to the defence of their own and the
+peoples juſt Rights and Liberties, and that they took
+up Arms in Judgment and Conſcience to thoſe Ends,
+and have ſo continued them, and are reſolved, accord<g ref="char:EOLhyphen"/>ing
+to the Parliaments juſt deſires in their Declarati<g ref="char:EOLhyphen"/>ons,
+and ſuch principles as they have received from
+their frequent informations, and their own common
+ſenſe concerning thoſe fundamental Rights and Li<g ref="char:EOLhyphen"/>berties,
+to aſſert and vindicate the ſame againſt all ar<g ref="char:EOLhyphen"/>bitrarie
+power, violence and oppreſſion, and againſt
+all particular parties and intereſts whatſoever; that
+ſo all the free-born people of this Nation may ſit
+down in quiet under the glorious adminiſtration of
+juſtice and righteouſneſs, and in full poſſeſſion of
+thoſe fundamental Rights and Liberties; without
+<pb n="9" facs="tcp:168546:6"/>
+which we can have little hopes (as to humane conſi<g ref="char:EOLhyphen"/>derations)
+to enjoy any comfort of life, or ſo much
+as life it ſelf, but at the pleaſure of ſome men <hi>Ruling
+according to will and power.</hi> That they deſire the
+eſtabliſhment of ſuch good Laws, as may duly and
+readily render to every man their juſt Rights and
+Liberties. And more particularly, in their Propoſals
+to the Commiſſioners of Parliament in order to the
+clearing and ſecuring of the Rights and Liberties of
+the Kingdom, <hi>Auguſt 1. 1647. Sect. 10. p.</hi> 114. they
+propoſed, That the Rights and Liberties of the
+Commons of <hi>England, May be cleared and vindi<g ref="char:EOLhyphen"/>cated
+from any other Iudgment, Sentence, or Pro<g ref="char:EOLhyphen"/>ceeding
+againſt them other than by their Equals, or
+according to the Law of the Land.</hi>
+               </q> And this De<g ref="char:EOLhyphen"/>fendant
+finally ſaith, that by the <hi>Instrument of Govern<g ref="char:EOLhyphen"/>ment</hi>
+it ſelf 16 <hi>December 1653. Artic.</hi> 6. and the <hi>Oath</hi>
+therein preſcribed to, and accordingly taken by his
+Highneſs, <hi>Oliver Cromwell Lord Protector,</hi> he is limited
+and ſworn; <q>not to alter, ſuſpend, abrogate or repeal
+the Laws, and to govern theſe Nations according to
+the Laws, Statutes and Cuſtomes; cauſing Juſtice and
+Law to be equally adminiſtred: whereunto he is like<g ref="char:EOLhyphen"/>wiſe
+obliged and ſworn again, by his <hi>Oath</hi> preſcribed
+in the late printed <hi>humble Petition and Advice.</hi>
+               </q> Neither
+doth that pretended <hi>Act,</hi> by which you here ſit as Com<g ref="char:EOLhyphen"/>miſſioners
+to trie this Defendant (made by no <hi>legiti<g ref="char:EOLhyphen"/>mate,</hi>
+nor free <hi>Parliament</hi> of <hi>England,</hi> and that when near
+one hundred and fiftie Members thereof were <hi>cauſleſly</hi>
+and <hi>forcibly</hi> ſecluded) authorize you (as he humbly con<g ref="char:EOLhyphen"/>ceiveth)
+to proceed againſt him for any Crime therein
+ſpecified, <hi>to Conviction</hi> or <hi>final Sentence,</hi> but <hi>onely as in
+Caſes of high Treaſon, and miſpriſion of Treaſon, <hi>and ac<g ref="char:EOLhyphen"/>cording
+to Juſtice;</hi>
+               </hi> and that you cannot do but onely
+by proceeding againſt him by a lawfull Indictment and
+Trial by a Grand and Pettie Jurie, according to the
+great Charter, Laws, and Statutes of the Land, and
+the late <hi>Petition of Right,</hi> which this new Act cannot
+<pb n="10" facs="tcp:168546:7"/>
+repeal or null. All which this Defendant is readie to
+averr, juſtifie, and make good, when and where this <hi>high
+Commiſſion Court,</hi> or his <hi>Highneſs the Lord Protector</hi> ſhall
+appoint: which being a meer matter of Law, wherein
+both the liberties and lives of all the Free born people
+of <hi>England</hi> are ſo univerſally, highly, and equally con<g ref="char:EOLhyphen"/>cerned,
+as well as the libertie and life of this Defendant,
+proper only to be debated before, and reſolved by
+the <hi>Judges of the Law,</hi> or the <hi>high Court of Parliament;</hi>
+This Defendant thereupon humbly praieth, That <hi>it
+may be referred to, openly argued by his learned Counſel, before
+all the Judges, or a Parliament, &amp; by them determined:</hi> and
+in the mean time humbly demandeth the Judgement of
+this <hi>High Commiſſion;</hi> Whether they may, can, or ought
+in point of <hi>Law</hi> and <hi>Justice,</hi> to proceed againſt, con<g ref="char:EOLhyphen"/>demn,
+or execute this Defendant, upon anie <hi>illegal ac<g ref="char:EOLhyphen"/>cuſation</hi>
+or <hi>Impeachment</hi> whatſoever, here exhibited or
+read againſt him, without a legal Indictment, Preſent<g ref="char:EOLhyphen"/>ment
+and Trial by a Jurie of his Equals? Or can take
+anie further connuſance of the <hi>Charge</hi> againſt him, for
+the premiſed Authorities &amp; Reaſons; which he in all
+humilitie referreth to, and imploreth you to take into
+your ſaddeſt conſiderations, and that in the Name and
+dreadfull preſence of the Omniſcient, Omnipotent,
+Soveraign<note n="g" place="margin">Gen. 18. 25</note> 
+               <hi>Judge of all the Earth,</hi>
+               <note n="h" place="margin">2 Cor. 25. <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> 
+               <hi>before whoſe glo<g ref="char:EOLhyphen"/>rious
+Tribunal you muſt all ere long appear,</hi> (ſtript of all
+Earthlie Honors, Pomp, Guards, and Power,) <hi>to give
+a ſtrict acount of all your Actions, whether good or evil,</hi> and
+of your proceedings in this verie Cauſe; when this his
+<hi>Plea</hi> and <hi>Demurrer</hi> will riſe up in judgement againſt,
+and condemn you, in caſe you willfully <hi>prejudge, miſ<g ref="char:EOLhyphen"/>judge,</hi>
+or <hi>reject</hi> it now, without due and full examinati<g ref="char:EOLhyphen"/>on
+according to Law, Juſtice, Conſcience: And if the
+Conſideration of this terrible day of account and juſt
+retribution before Chriſts own Tribunal, ſhall not
+prevail with you to admit of this his <hi>Legal Plea</hi> and
+<hi>Demurrer,</hi> (as being after your deaths, perhaps manie
+years yet to come, and no waies endangering the loſs
+<pb n="11" facs="tcp:168546:7"/>
+of your Lives, Lands, Honors or Eſtates in this preſent
+world,) He ſhall then humbly intreat you for your
+own future indemnitie (he hopes, without offence)
+ſeriouſly to conſider; That in the Parliament of 11 R.
+2. c. 1. 5. 21 R. 2. c. 11, 12. <hi>Treſylian</hi> chief Juſtice of
+the Kings Bench, <hi>Belknappe</hi> Chief Juſtice of the Com<g ref="char:EOLhyphen"/>mon
+Pleas, <hi>John Care, Iohn Holt, Roger Fulthorpe, Willi<g ref="char:EOLhyphen"/>am
+de Burgh</hi> Judges, and <hi>Iohn Locton</hi> the Kings Serjeant,
+were all <hi>impeached of high Treaſon, condemned, and ſome of
+them executed as Traytors and Enemies to the King &amp; Realm,
+the reſt perpetually baniſhed, their Lands and Eſtates confiſca<g ref="char:EOLhyphen"/>ted
+to the King, and all acceſs of their wives, children or others
+to them during their exile, prohibited by Judgement &amp; Act of
+Parliament,</hi> only <hi>for delivering their opinions (through me<g ref="char:EOLhyphen"/>naces
+and fear of death at</hi> Nottingham Caſtle) <hi>under their
+hands and Seals, againſt the Law of the Land; That the
+Lords and Commons who procured the Commiſſion in the Par<g ref="char:EOLhyphen"/>liament
+of 10 R. 2. for the better Government of the Realm,</hi>
+and moved the <hi>King to conſent thereto, deſerved to be puni<g ref="char:EOLhyphen"/>ſhed
+as Traytors, by capital pain of death:</hi> That ſo by co<g ref="char:EOLhyphen"/>lour
+of theſe their opinions, <hi>Robert de Veer</hi> Duke of
+<hi>Ireland, Nicholas Brambre,</hi> Knight, <hi>and others of the Kings
+ill Counſellers,</hi> might take occaſion to <hi>deſtroy and take a<g ref="char:EOLhyphen"/>way
+the lives of the Lords who procured and executed that
+Commiſſion, and others of the Kings people, by undue and illegal
+Indictments and proceedings, without any lawfull Trial by
+their Peers, as Traitors to the King.</hi> And the ſaid Sir
+<note n="i" place="margin">Henry de Knyghton de Event. Angliae l. 5. p. 2718, 2726, 2727, 27, 28.</note> 
+               <hi>Nicholas Brambre</hi> for <hi>enforcing the Judges, with others
+of the Kings ill Counſellors, to deliver their opinions against
+Law, and for his beheading, executing 22 Priſoners of</hi> New<g ref="char:EOLhyphen"/>gate,
+(<hi>impeached and indicted of felony, or ſuspition of felony)
+at</hi> Foul-<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oke <hi>in</hi> Kent <hi>by regal and tyrannical power incroa<g ref="char:EOLhyphen"/>ched
+by him, without warrant, or due proceſſe of the Law, a<g ref="char:EOLhyphen"/>againſt
+the Great Charter and <g ref="char:V">Ʋ</g>ſage of the Realm of</hi> Engl.
+<hi>was in the ſame Parl. condemned for high Treaſon, &amp; beheaded
+at Tower-hill on the ſame block, with the ſame Axe he had
+prepared to cut off the heads of others he intended there to
+execute as his Enemies.</hi> And that in the laſt Parliament
+<pb n="12" facs="tcp:168546:8"/>
+of King <hi>Charles,</hi> the<note n="k" place="margin">Their Im<g ref="char:EOLhyphen"/>peachments are entred in the Iournals of the Lords and Commons Houſe.</note> two <hi>chief Juſtices, Brampſton,</hi>
+and <hi>Finch,</hi> the <hi>chief Baron Davenport, and all the rest of
+the Judges and Barons,</hi> except two, were by the whole
+Houſe of Commons, and ſome of the Commiſſioners
+here ſitting, and Counſel pleading againſt this Defen<g ref="char:EOLhyphen"/>dant,
+<hi>impeached of high Treaſon, diſ-Judged, and put to fines
+and ranſoms, for that they had trayterouſly endeavoured to
+ſubvert the fundamental Laws and Government of the Realm
+of England, and inſtead thereof to introduce an arbitrary and
+tyrannical Government againſt Law; which they had declared
+by trayterous words, opinions and judgements in the caſe of
+Ship-money,</hi> againſt Mr. <hi>John Hampden;</hi> Which judge<g ref="char:EOLhyphen"/>ment
+and opinions concerned only the propertie of
+the Subjects goods, not the hazard of their lives, inhe<g ref="char:EOLhyphen"/>ritances
+and forfeiture of their eſtates, as your preſent
+proceedings doe, being of a more high and dangerous
+conſequence; In which Parliament, by the like Im<g ref="char:EOLhyphen"/>peachment
+and proſecution;<note n="*" place="margin">See Canter<g ref="char:EOLhyphen"/>burie &amp; Straf<g ref="char:EOLhyphen"/>fords printed Trials.</note> 
+               <hi>William Laud</hi> Archbi<g ref="char:EOLhyphen"/>ſhop
+of <hi>Canterburie,</hi> and <hi>Thomas Earl of Strafford</hi> Lord
+Deputie of <hi>Ireland,</hi> were condemned and executed by
+Judgement of Parliament, and ſome here pre<g ref="char:EOLhyphen"/>ſent,
+as <q>Traitors, guiltie of High Treaſon, for
+that they endeavoured traiterouſly to ſubvert the
+Fundamental laws, and eſtabliſhed government of
+this Realm, and in ſtead thereof to bring in and
+ſet up an arbitrarie and tyrannical power, againſt
+Law. To prove which Charge, their arbitrarie pro<g ref="char:EOLhyphen"/>ceedings
+contrarie to the Laws and great Charters of
+<hi>England,</hi> both at the Counſil Table, in the High
+Commiſſion, Star Chamber, and elſewhere were gi<g ref="char:EOLhyphen"/>ven
+in Evidence againſt them; and more particular<g ref="char:EOLhyphen"/>ly,
+the Earl of <hi>Strafford</hi>'s proceeding againſt the Lord
+<hi>Mount-Norris</hi> in <hi>Ireland,</hi> by a Council of War in time
+of Peace, and condemning him to death therein
+without any legal Indictment and Trial by his Peers,
+againſt the great Charter &amp; Laws of the Land, though
+he did not execute him thereupon:</q> And whether
+your preſent proceedings of like nature againſt this
+<pb n="13" facs="tcp:168546:8"/>
+Defendant, in caſe you reject or over-rule this his <hi>Plea</hi>
+and <hi>Demurrer,</hi> and condemn and execute him by pretext
+of an <hi>illegal Act</hi> (made by no free and lawfull Parlia<g ref="char:EOLhyphen"/>ment
+of <hi>England,</hi>) for offences not treaſonable by the
+known Laws and Statutes of the Land, nor legally
+proved againſt him by any one Witneſs produced in
+Court before his face, without conſulting the preſent
+<hi>Judges</hi> of the Land (who refuſe to join or ſit with you
+in this new illegal way of Trial) will not much more
+involve you in the <hi>Crime</hi> and <hi>guilt</hi> of the verie ſelf ſame
+<hi>high Treaſons,</hi> for which they were thus anciently and
+lately impeached, condemned, executed by <hi>Judgment of
+Parliament,</hi> and ſo expoſe you to the like <hi>capital cen<g ref="char:EOLhyphen"/>ſures,</hi>
+forfeitures, confiſcations of your real and perſo<g ref="char:EOLhyphen"/>nal
+Eſtates, as they underwent, in future <hi>Parliaments,</hi>
+               <q>by your endevoring to ſubvert all the premiſed funda<g ref="char:EOLhyphen"/>mental
+Laws and eſtabliſhed legal proceedings in the
+Land, and to introduce and ſet up a meer arbitrarie
+and tyrannical power contrarie to Law, to the endan<g ref="char:EOLhyphen"/>gering
+not onely of the properties, but lives, liberties,
+and Inheritances of all the Noblemen, Gentlemen,
+Clergie-men, and other Freemen of <hi>England</hi> by ſuch
+exorbitant, <hi>martial</hi> proceedings, after all theſe Sta<g ref="char:EOLhyphen"/>tutes,
+Judgments, with the late <hi>Remonſtrances, Declara<g ref="char:EOLhyphen"/>tiions,</hi>
+Leagues, Covenants, and ſolemn Oaths of the
+Lord <hi>Protectour</hi> himſelf and others againſt them, yea
+after the many years Wars and heavie Taxes impoſed
+on the Nation for the maintaining and inviolable pre<g ref="char:EOLhyphen"/>ſervation
+of theſe fundamental Laws, Liberties, and
+Rights againſt all arbitrarie <hi>Commiſſions</hi> and proceed<g ref="char:EOLhyphen"/>ings
+whatſoever; he humbly ſubmits to your own im<g ref="char:EOLhyphen"/>partial
+Reſolutions and conſciences.</q> And thereupon
+this Defendant praies his Diſmiſſion from any ſuch
+further proceedings againſt him without a lawful <hi>Ju<g ref="char:EOLhyphen"/>ry
+and Trial by his <hi>Peers.</hi>
+               </hi> And that you will be pleaſed
+after deliberate conſideration of the premiſes to reverſe
+and recall that <hi>arbitrary, unrighteous, bloudy Sentence of
+Death,</hi> you have newly paſſed againſt him, without
+<pb n="14" facs="tcp:168546:9"/>
+anie lawfull Indictment, Preſentment, Trial, Confeſ<g ref="char:EOLhyphen"/>ſion
+or Conviction of Treaſon, which ſtrikes at the
+Root of the Fundamental Laws, liberties, franchiſes
+of all Engliſh Free-men, and cuts off all their necks
+at one ſtroke, tranſcending all the arbitrarie, tyran<g ref="char:EOLhyphen"/>nical
+proceedings of <hi>Strafford, Canterbury,</hi> and the late
+<hi>King Charles</hi> (whom ſome of your ſelves have impea<g ref="char:EOLhyphen"/>ched,
+cenſured, condemned, decapitated as the <hi>very worſt,
+and greateſt of Tyrants</hi>) leſt it become a moſt pernicious
+fatal preſident to poſteritie, to others, or your own
+deſtruction, and render you as execrable to all ſuccee<g ref="char:EOLhyphen"/>ding
+generations, as anie formerly guiltie of the
+like exorbitant proceedings.</p>
+            <div type="part">
+               <head>Juſt and Legal Exceptions to the Cauſe and Manner
+of the Illegal Judgement given against Dr Iohn
+Hewytt; humbly tendred by him to the conſide<g ref="char:EOLhyphen"/>ration
+of thoſe Commiſsioners who denounced it.</head>
+               <p>
+                  <hi>THat it is ſpecially enacted by the Statute of</hi> West<g ref="char:EOLhyphen"/>minster
+<hi>the 1. ch. 12. and accordingly reſolved in</hi>
+Brook <hi>Pain 1, 2, 4, 5, 8, 9, 12, 13, 14, 15, 19, and the
+Year-Books therein abridged, by</hi> Stamfords <hi>Pleas of the
+Crown, l. 2. c.</hi> 60. Dyer, f. 205. a. 300. b. Cooks 2.
+Inſtitutes, p. 177, 178, 179. <hi>and</hi> 3. Inſtitutes, <hi>p.</hi> 217.
+That no man ought by Law to be condemned, or put to death in
+caſe of Treaſon or Felony, for ſtanding mute, or refuſing to
+plead, or put himſelf upon his Trial, or for challenging more
+<pb n="15" facs="tcp:168546:9"/>
+than 36. of the Jurie peremptorily; but only in theſe ca<g ref="char:EOLhyphen"/>ſes.</p>
+               <p>1. <hi>When and where the perſon accuſed and arraign<g ref="char:EOLhyphen"/>ed,</hi>
+is a<note n="a" place="margin">Weſt. 1. c. 12. Stamford, l. 2. c. 60. f. 149. b. Cooks 2 In<g ref="char:EOLhyphen"/>ſtit. p. 177. 179</note> Notorious Traytor or Felon, and openly of evil name,
+and defamed thereof: <hi>But Dr.</hi> Hewytt <hi>is no ſuch perſon</hi>
+               </p>
+               <p>2. <hi>When and where the</hi> Treaſon <hi>or</hi> Felony <hi>for which
+he ſtands accuſed, is</hi>
+                  <note n="b" place="margin">Cooks 2 Inſtit. p. 177. Stamford, f. 150. a.</note> notorious, evident, certain, or at
+leaſt very probable, and already found upon Oath againſt him
+by the Preſentment, or Indictment of an honeſt lawfull Grand-Iury
+of his Equals, of the ſame County wherein he is arraign<g ref="char:EOLhyphen"/>ed,
+or confeſſed by himſelf: <hi>All which Circumſtances and
+Evidences of Guilt were wanting in Doctor</hi> Hewytts
+<hi>caſe.</hi>
+               </p>
+               <p>3. <hi>When and where the Judges,</hi>
+                  <note n="c" place="margin">Stamford, l. 2. c. 60. f. 150 a.</note> for the better ſatis<g ref="char:EOLhyphen"/>faction
+of their conſciences, and diſcharge of their duties, doe
+(<hi>as they ought by Law,</hi>) firſt openly examin the Evi<g ref="char:EOLhyphen"/>dence
+and Witneſſes, which prove the perſon arraigned guilty
+of the Fact of Treaſon or Felonie for which he ſtands indicted,
+before they proceed to give Iudgement againſt him for not plea<g ref="char:EOLhyphen"/>ding,
+or ſtanding mute. <hi>Which was not done in this
+caſe, there being neither Witneſſes nor Evidence pro<g ref="char:EOLhyphen"/>duced
+in open Court to prove him guiltie.</hi>
+               </p>
+               <p>4. When and where there is a <hi>legal Indictment</hi> found
+againſt the partie arraigned, which being read openly
+to him in Court, the <hi>Traytor</hi> or <hi>Felon</hi> thereupon, doth
+either<note n="d" place="margin">Stamf. l. 2. c. 60 Cooks 2 Inſtit. p 177, 178.</note> 
+                  <hi>wilfully or maliciouſly ſtand mute, refuſing to anſwer
+or plead</hi> thereunto, (which the<note n="e" place="margin">Stamford f. 150. b. 43 Aſſ. 30. Fitz. Co<g ref="char:EOLhyphen"/>rone, 225. 8 H. 4. 2. Cooks 2 Inſtit. p. 178. 21 E. 3. 18.</note> 
+                  <hi>Iury</hi> there impannelled
+to trie him, <hi>are by Law to enquire of, finde and return upon
+Oath:</hi>) Or, <hi>peremptorily challengeth above 35 of his Iury,
+without any legal cauſe or exceptions;</hi> Or elſe obſtinately
+<note n="f" place="margin">Cooks 2 In<g ref="char:EOLhyphen"/>ſtit. p. 178.</note> 
+                  <hi>refuſeth to put himſelf upon a Legal Tryal <hi>by God and
+his Country,</hi> being a Iury of honeſt, lawfull men of the
+County then and there preſent,</hi>
+                  <note n="*" place="margin">11 H. 4. c. 11 Cooks 3 In<g ref="char:EOLhyphen"/>ſtit. p. 32, 33.</note> 
+                  <hi>retorned by the Sheriff alone,
+not Iuſtices or others, for to try him; to whom by Law he
+may take both his legal and peremptory Challenges</hi>) ſaying,
+That he will be tried, <hi>only by God and the Bench;</hi>
+or, <hi>by God and the Court,</hi> or <hi>Judge;</hi> or<note n="g" place="margin">4 E, 4 11. 7 <hi>E.</hi> 4 29. Brook Pain 14.</note> 
+                  <hi>by God
+and the Virgin Mary,</hi> or <hi>Holy Church:</hi> there being
+<pb n="16" facs="tcp:168546:10"/>
+no preſident extant in Records, or Law-books, of
+any <hi>Traytor</hi> or <hi>Felon</hi> hitherto condemned to die, <hi>for
+ſtanding mute, or not pleading, onely for refuſing to <hi>be tried
+by God and the honourable Bench, Judges, Court
+Alone,</hi>
+                  </hi> without any Indictment or Jurie; and for
+earneſtly importuning the Court and his Judges,
+<hi>that he may be tried onely by God and his Coun<g ref="char:EOLhyphen"/>trey,
+and on an Indictment by a Jury of his E<g ref="char:EOLhyphen"/>quals
+according to Law, <hi>casting himſelf wholly upon ſuch
+a Trial, after a lawfull Preſentment and Indictment</hi>
+                  </hi> firſt
+<hi>found againſt him by a Jury.</hi> The onely reaſon rendered in
+and by the forecited <hi>Statute</hi> and <hi>Law-books</hi> of all Judg<g ref="char:EOLhyphen"/>ments
+hitherto given againſt any <hi>Traitour</hi> or <hi>Felon,</hi> for
+ſtanding mute, and refuſing to plead, being this,
+<q>
+                     <note n="h" place="margin">W. 1. c. 12. 3. Inſtit. p. 217. 2. Inſtit. p. 179. 8 E. 3. Itin. Nort. Fitz. Corone. 359. 14 H. 4. 7. Brook. Pain. 14, 15.</note> Becauſe he peremptorily refuſeth to ſtand to and be
+tried by <hi>the Law of the Land, and a due and law<g ref="char:EOLhyphen"/>full
+Triall by a Jury of his Equals, according to
+the courſe of the Common Law, and the great
+Charter.</hi> But Dr. <hi>John Hewytt</hi> is now <hi>condemned</hi> to be
+<hi>executed</hi> as a Traitour by the <hi>High Court of Juſtice,</hi> con<g ref="char:EOLhyphen"/>trarie
+to all former Preſidents, Statutes, Law-books,
+and the onely legal reaſon in former times of all
+Judgments rendered againſt any perſons in ſuch caſes;
+even for his frequent, earneſt, importunate demanding
+and peremptorie caſting of himſelf, upon a due legal
+Trial by God and his Countrie, and an indifferent
+Jurie of his Equals, according to the common, Sta<g ref="char:EOLhyphen"/>tute
+Laws and great Charter of <hi>Englaud,</hi> after a legal
+Preſentment and Indictment to be firſt found againſt
+him: and for refuſing to waive this his legal Trial
+(to the publick prejudice of all other <hi>Engliſh</hi> Free<g ref="char:EOLhyphen"/>men)
+and caſt himſelf whollie and ſolie upon a new
+kind of arbitrarie Trial, contrarie to Law, <hi>By God
+and the Bench, Court, and the Commiſſioners</hi>
+themſelves, (who would be both <hi>his Grand</hi> and <hi>Petty
+Jury</hi> as well as <hi>Judges</hi>) without and before any legal
+Preſentment, Indictment, or Jurie impannelled or re<g ref="char:EOLhyphen"/>turn'd
+to trie him.</q> Therefore he humblie conceives
+<pb n="17" facs="tcp:168546:10"/>
+this Judgment denounced againſt him upon this rea<g ref="char:EOLhyphen"/>ſon
+&amp; ground alone, to be moſt erroneous, illegal, un<g ref="char:EOLhyphen"/>juſt,
+repugnant to all former Preſidents, &amp; to one this
+verie Week at the <hi>Seſſions</hi> in the <hi>Old Baily</hi> by Judgment
+of ſome of his Judges at <hi>Weſtminſter</hi>) and of very dan<g ref="char:EOLhyphen"/>gerous
+conſequence. Whereupon he humbly praies the
+<hi>ſuſpenſion</hi> &amp; <hi>reverſal</hi> thereof as unjuſt, and meerlie void in
+Law, by the Statutes of 25 <hi>E. 1. cap. 2. &amp; 42 E. 3 c.</hi> 1.
+leſt the Execution of him for a Traitour upon this
+Judgment and ground, ſhould prove <hi>wilfull Murder,</hi> and
+a ſhedding of <hi>innocent bloud</hi> in the account both of
+God and man.</p>
+               <p>What therefore the Prophet <hi>Jeremiah</hi> alleged to the
+<hi>Princes</hi> of <hi>Judah,</hi> in a like caſe, when they reſolved him
+at firſt <hi>to be worthy of death,</hi> without a legal hearing or
+trial, <hi>Jerem 26. 11, 14, 15. As for me, bebold, I am in your
+hands, to do unto me what ſeemeth good and meet unto you:
+But know ye for certain, that if ye put me to death, <hi>ye ſhall
+ſurely bring innocent bloud upon your ſelves, and
+upon this City, and upon the Inhabitants thereof:</hi>
+                  </hi>
+Whereupon the <hi>Princes</hi> and <hi>People,</hi> upon ſecond and
+better adviſed thoughts altered their former bloudie
+Sentence, ſaying; <hi>This man is not worthy to die; for he
+hath ſpoken unto us in the Name of the Lord our God. And
+the hand of</hi> Ahikam <hi>was with</hi> Jeremiah, <hi>that they ſhould
+not give him into the hand of the People to put him to death.</hi>
+Shall be my Allegation to thoſe who have paſſed this
+unjuſt Sentence of Death againſt me; and if it pro<g ref="char:EOLhyphen"/>duce
+not the like effect for their reverſal thereof, and
+my preſervation from its violent bloudie Execution, as
+it did in this Prophets caſe; I ſhall then earneſtly pray
+to God, that it may not draw down from Heaven that
+heavie Sentence of wrath upon them, nor that ſad
+Judgment upon the whole Land of <hi>England</hi> which
+this Prophet denounced againſt <hi>Jehojakim, Jer. 20. 17,
+18, 19. But thine eys amd thine heart are but for thy cove<g ref="char:EOLhyphen"/>touſneſs,
+and <hi>for to ſhed Innocent Bloud,</hi> and for op<g ref="char:EOLhyphen"/>preſſion
+and violence to do it. Therefore thus ſaith the Lord
+<pb n="18" facs="tcp:168546:11"/>
+concerning</hi> Jehojakim; <hi>They ſhall not lament for him, ſay<g ref="char:EOLhyphen"/>ing,
+Ah my brother, or ah ſiſter, ah Lord, or ah his glory:
+But he ſhall be buried with the burial of an Aſs, drawn and caſt
+forth beyond the gates of</hi> Jeruſalem. And that which the
+Prophet <hi>Joel</hi> threatened to <hi>Egypt</hi> and <hi>Edom, Joel</hi> 3. 19.
+Egypt <hi>ſhall be a deſolation, and</hi> Edom <hi>a deſolate Wilderneſs,
+for their violence againſt the children of</hi> Judah, <hi>becauſe
+they have ſhed Innocent Bloud in the Land.</hi> And
+that againſt all Rules of Law and Juſtice, in that they
+intitle, The High Court of Juſtice, which will not
+palliate, but<note n="i" place="margin">Eccleſ. 3 16, 17. Pſal. 94. 20, 21, 23.</note> 
+                  <hi>aggravate</hi> the Injuſtice acted in it, and
+make it more deteſtable both to Man and God himſelf,
+who averrs this for an undoubted truth;</p>
+               <p>
+                  <hi>Gen.</hi> 9. 5, 6. Surely your bloud of your lives, will I
+require; at the hand of everie Beaſt will I require it,
+and at the hand of everie mans brother will I require
+the life of man. <hi>Who ſo ſheddeth Mans Bloud, by
+Man ſhall his Bloud be ſhed;</hi> for in the Image of God
+made he Man.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
